@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T03:10:54Z" name="Suite" finished-at="2022-06-09T03:11:15Z" duration-ms="21637">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T03:10:54Z" name="Test" finished-at="2022-06-09T03:11:15Z" duration-ms="21637">
+      <class name="qaautomation.may2022.APITestAfterRefactor">
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:10:54Z" name="login" finished-at="2022-06-09T03:10:57Z" duration-ms="3313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="configAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:10:57Z" name="configAPI" finished-at="2022-06-09T03:10:59Z" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:10:59Z" name="login" finished-at="2022-06-09T03:11:01Z" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="dashboardAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:11:01Z" name="dashboardAPI" finished-at="2022-06-09T03:11:03Z" duration-ms="2448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:11:03Z" name="login" finished-at="2022-06-09T03:11:05Z" duration-ms="2086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="fakerTest()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:11:05Z" name="fakerTest" finished-at="2022-06-09T03:11:06Z" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakerTest -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:11:06Z" name="login" finished-at="2022-06-09T03:11:08Z" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="userAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@f3fcd59]" started-at="2022-06-09T03:11:08Z" name="userAPI" finished-at="2022-06-09T03:11:09Z" duration-ms="1771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPI -->
+      </class> <!-- qaautomation.may2022.APITestAfterRefactor -->
+      <class name="qaautomation.may2022.GraphQLTest">
+        <test-method signature="checkCEO()[pri:0, instance:qaautomation.may2022.GraphQLTest@2b56f5f8]" started-at="2022-06-09T03:11:09Z" name="checkCEO" finished-at="2022-06-09T03:11:13Z" duration-ms="3736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCEO -->
+        <test-method signature="getLaunchesWithVariable()[pri:0, instance:qaautomation.may2022.GraphQLTest@2b56f5f8]" started-at="2022-06-09T03:11:13Z" name="getLaunchesWithVariable" finished-at="2022-06-09T03:11:15Z" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchesWithVariable -->
+      </class> <!-- qaautomation.may2022.GraphQLTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

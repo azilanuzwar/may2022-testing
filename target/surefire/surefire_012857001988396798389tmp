@@ -1,0 +1,7 @@
+#surefire_0
+#Thu Jun 09 10:10:49 WIB 2022
+basedir=D\:\\QA Azila\\eclipse_new\\may2022
+user.dir=D\:\\QA Azila\\eclipse_new\\may2022
+suiteXmlFile=apisuite.xml
+env=stage
+localRepository=C\:\\Users\\Miftahul Arifin\\.m2\\repository
